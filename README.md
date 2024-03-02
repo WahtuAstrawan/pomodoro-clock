@@ -18,13 +18,13 @@ This Pomodoro Clock Timer is built using React and SCSS.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-clock-timer.git
+   git clone https://github.com/WahtuAstrawan/pomodoro-clock.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd pomodoro-clock-timer
+   cd pomodoro-clock
    ```
 
 3. Install dependencies:
